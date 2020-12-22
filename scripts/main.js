@@ -82,7 +82,7 @@ function runalgo() {
       Bubble();
       break;
     case "Selection":
-      Selection();
+      Selection_sort();
       break;
     case "Insertion":
       Insertion();
